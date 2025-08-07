@@ -6,3 +6,4 @@ i am also using `Multiplayer Play Mode` so i dont have to rebuild everytime i wa
 
 ## modules here
 - [Client side movement](https://github.com/zsfer/gamenetworking_master/tree/master/Assets/_Modules/Client_Side_Movement)
+- [Web Request](https://github.com/zsfer/gamenetworking_master/tree/master/Assets/_Modules/WebRequest)
