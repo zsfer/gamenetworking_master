@@ -1,0 +1,10 @@
+{
+	"playerName": "player one",
+	"playerHealth": 109,
+	"score": 120,
+	"playerPosition": {
+		"x": 10.979189,
+		"y": 41.66545,
+		"z": 0
+	}
+}
